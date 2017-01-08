@@ -1,4 +1,14 @@
-# WebIDE Plugin Spotify
+``` 
+                       (   (           (                                
+   (  (             ) )\ ))\ )        )\ )              )   (          
+   )\))(   '  (  ( /((()/(()/(  (    (()/(           ( /((  )\ ) (     
+  ((_)()\ )  ))\ )\())/(_))(_)) )\    /(_))`  )   (  )\())\(()/( )\ )  
+  _(())\_)()/((_|(_)\(_))(_))_ ((_)  (_))  /(/(   )\(_))((_)/(_)|()/(  
+  \ \((_)/ (_)) | |(_)_ _||   \| __| / __|((_)_\ ((_) |_ (_|_) _|)(_)) 
+   \ \/\/ // -_)| '_ \| | | |) | _|  \__ \| '_ \) _ \  _|| ||  _| || | 
+    \_/\_/ \___||_.__/___||___/|___| |___/| .__/\___/\__||_||_|  \_, | 
+                                          |_|                    |__/                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+```                                                                                                                                                 
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jsrun/wi.plugins.spotify/master/LICENSE)
 [![GitHub version](https://badge.fury.io/gh/jsrun%2Fwi.plugins.spotify.svg)](https://badge.fury.io/gh/jsrun%2Fwi.plugins.spotify)
