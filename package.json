@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "description": "Spotify integration plugin for WebIDE",
     "author": "André Ferreira <andrehrf@gmail.com>",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/jsrun/wi.plugins.spotify"
